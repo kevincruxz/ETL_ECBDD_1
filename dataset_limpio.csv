@@ -1,0 +1,500 @@
+game_name,highest_price,release_date,genre,publisher,platform,metacritic_score,metacritic_rating_count,metacritic_user_score,metacritic_user_rating_count,playstation_score,playstation_rating_count
+Grand Theft Auto IV,24.99,2012-02-15,Action / Shooter / Racing,Rockstar,PS3,98.0,86.0,8.3,5541.0,4.32,48904.0
+Red Dead Redemption 2,59.99,2018-10-26,Action / Adventure / Unique,Rockstar Games,PS4,97.0,99.0,8.9,31932.0,4.74,379257.0
+Red Dead Online,69.99,2018-10-29,Action / Adventure,Rockstar Games,PS4,97.0,99.0,8.9,31932.0,4.74,379346.0
+Grand Theft Auto 3,9.99,2012-10-04,,Rockstar Games,PS3,97.0,56.0,8.0,2079.0,4.59,1437.0
+Grand Theft Auto V,69.99,2013-09-17,Action / Adventure,Rockstar Games,PS3,97.0,66.0,8.5,14322.0,4.65,40895.0
+Grand Theft Auto V,69.99,2014-11-18,Action / Adventure,Rockstar Games,PS4,97.0,66.0,8.5,14322.0,4.48,854788.0
+Baldur's Gate 3,69.99,2023-09-06,Role playing games,Larian Studios Games Ltd,PS5 / PS4,96.0,112.0,9.2,19439.0,,
+ELDEN RING PS4 & PS5,69.99,2022-02-25,Role playing games,BANDAI NAMCO ENTERTAINMENT EUROPE,PS5 / PS4,96.0,86.0,8.3,20997.0,,
+Uncharted 2: Among Thieves™,,2009-10-15,,Sony Interactive Entertainment Europe,PS3,96.0,105.0,8.9,7750.0,4.14,7.0
+Mass Effect™ 2,14.99,2011-01-21,Role playing games,EA Swiss Sarl,PS3,96.0,98.0,8.9,3062.0,4.81,4067.0
+BioShock,14.99,2012-06-27,Action / Shooter,2K,PS3,96.0,88.0,8.8,3793.0,4.75,1557.0
+The Elder Scrolls V: Skyrim,,2013-02-13,,Bethesda,PS3,96.0,89.0,8.6,7095.0,,
+Red Dead Redemption,49.99,2023-08-17,Action,Rockstar Games,PS4,95.0,96.0,8.9,4247.0,4.71,45.0
+Persona 5 Royal,59.99,2022-10-21,,SEGA EUROPE LTD,PS5,95.0,71.0,8.7,5975.0,,
+The Last of Us™,,2012-04-04,,Sony Interactive Entertainment Europe,PS3,95.0,98.0,9.2,16454.0,4.35,113.0
+The Last of Us™,19.99,2019-06-05,Action / Adventure / Horror,Sony Interactive Entertainment Europe,PS3,95.0,98.0,9.2,16454.0,4.79,1412.0
+Portal 2,,2011-10-05,,EA Swiss Sarl,PS3,95.0,66.0,8.8,2649.0,,
+Red Dead Redemption,29.99,2011-11-16,Action / Shooter,Rockstar Games,PS3,95.0,96.0,8.9,4213.0,4.59,23589.0
+The Last of Us™ Remastered,49.99,2014-07-30,Action / Adventure,Sony Interactive Entertainment Europe,PS4,95.0,70.0,9.2,21277.0,4.81,418687.0
+The Last of Us™: Left Behind (extension indépendante),9.99,2015-05-12,Action / Adventure,Sony Interactive Entertainment Europe,PS4,95.0,70.0,9.2,21312.0,4.59,3440.0
+Metaphor: ReFantazio PS4 et PS5,69.99,2024-10-11,,SEGA EUROPE LTD,PS5 / PS4,94.0,54.0,8.5,2429.0,,
+ASTRO BOT,69.99,2024-09-06,,Sony Interactive Entertainment Europe,PS5,94.0,136.0,9.1,5176.0,,
+Quake,9.99,2021-10-12,Shooter,Bethesda,PS5 / PS4,94.0,9.0,8.6,1153.0,,
+God of War™,19.99,2019-10-04,Action / Adventure,Sony Interactive Entertainment Europe,PS4,94.0,118.0,9.1,28793.0,4.75,7664.0
+METAL GEAR SOLID,9.99,2009-11-19,Action / Shooter / Adventure,Konami,PS3 / PS Vita / PSP,94.0,20.0,8.8,2466.0,4.91,14272.0
+Final Fantasy® IX,9.99,2010-05-26,Role playing games / Adventure,Square Enix LTD,PS3 / PS Vita / PSP,94.0,22.0,8.9,1882.0,4.87,12971.0
+God of War® HD,14.99,2010-11-03,Action / Adventure,Sony Interactive Entertainment Europe,PS3,94.0,75.0,8.9,2692.0,4.72,3811.0
+Tom Clancy's Splinter Cell Chaos Theory® HD,9.99,2011-08-10,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,94.0,70.0,8.8,231.0,4.47,1959.0
+Call of Duty 4: Modern Warfare,29.99,2011-11-23,Action / Shooter,Activision Blizzard Int'l BV,PS3,,,,,4.44,819.0
+Call of Duty: Modern Warfare 2,29.99,2011-12-07,Action / Shooter,Activision Blizzard Int'l BV,PS3,,,,,4.56,1674.0
+Batman: Arkham City,14.99,2012-06-20,Action,WARNER BROS. INTERACTIVE,PS3,,,,,4.74,5434.0
+Batman: Arkham City,14.99,2012-12-05,Action,WARNER BROS. INTERACTIVE,PS3,,,,,4.71,1921.0
+BioShock Infinite,29.99,2013-03-26,Shooter,2K,PS3,,,,,4.67,9580.0
+Metal Gear Solid 4: Guns of the Patriots,14.99,2014-12-17,Action,Konami,PS3,,,,,4.74,2042.0
+Clair Obscur: Expedition 33,49.99,2025-04-24,,Kepler Interactive Limited,PS5,,,,,,
+Persona 4 Golden,19.99,2023-01-19,Role playing games,SEGA EUROPE LTD,PS4,93.0,61.0,9.1,2484.0,5.0,14.0
+Resident Evil 4 PS4 & PS5,69.99,2023-03-24,Action / Adventure / Horror,CE EUROPE LIMITED,PS5 / PS4,93.0,126.0,8.9,6900.0,,
+Hades,24.99,2021-08-13,Action,SUPERGIANT GAMES,PS5 / PS4,93.0,58.0,8.6,4061.0,,
+The Last of Us Part II,69.99,2020-06-19,Action / Adventure,Sony Interactive Entertainment Europe,PS4,93.0,121.0,5.8,165959.0,4.51,238482.0
+Persona 5,69.99,2017-04-04,Role playing games,SEGA EUROPE LTD,PS4,93.0,98.0,8.9,5768.0,4.87,51264.0
+Persona 5,49.99,2017-04-04,Role playing games,Deep Silver,PS3,,,,,4.92,998.0
+resident evil 4 (2005),19.99,2016-08-30,Action / Horror,CE EUROPE LIMITED,PS4,,,,,4.71,12139.0
+INSIDE,19.99,2016-08-23,Puzzle / Action / Adventure / Horror,Playdead ApS,PS4,,,,,4.63,11025.0
+Street Fighter IV,,2009-02-26,Fighting,CE EUROPE LIMITED,PS3,,,,,,
+GRAND THEFT AUTO: CHINATOWN WARS,14.99,2009-10-23,Action / Shooter / Adventure,Rockstar Games,PS Vita / PSP,,,,,4.01,1911.0
+Braid,9.99,2009-12-17,Action / Arcade / Strategy,HOTHEAD GAMES INC.,PS3,,,,,4.56,2623.0
+God of War® II HD,14.99,2010-11-03,Action / Adventure,Sony Interactive Entertainment Europe,PS3,,,,,4.8,2231.0
+Tom Clancy's Splinter Cell Pandora Tomorrow® HD,9.99,2011-08-10,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.43,867.0
+Tom Clancy's Splinter Cell® HD,9.99,2011-08-10,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.34,1164.0
+Persona 4 Golden,29.99,2013-02-20,Role playing games,NIS America,PS Vita,93.0,61.0,9.1,2475.0,4.89,4806.0
+Metal Gear Solid V: The Phantom Pain,59.99,2015-09-01,Action,Konami,PS3,93.0,86.0,8.1,6911.0,4.79,1962.0
+Metal Gear Solid V: The Phantom Pain,69.99,2015-09-01,Action,Konami,PS4,93.0,86.0,8.1,6878.0,4.65,92773.0
+Blue Prince,29.99,2025-04-10,,RAW FURY,PS5,92.0,55.0,7.8,619.0,,
+Forza Horizon 5 Standard Edition,69.99,2025-04-29,,Microsoft Corporation,PS5,,,,,,
+FINAL FANTASY VI,17.99,2023-04-19,Role playing games,Square Enix LTD,PS4,,,,,5.0,5.0
+The Witcher 3: Wild Hunt,29.99,2022-12-14,Role playing games,CD PROJEKT,PS5 / PS4,,,,,4.83,262989.0
+RimWorld Console Edition,39.99,2022-07-29,Simulation,Double Eleven Limited,PS4,,,,,5.0,4.0
+Demon’s Souls,79.99,2020-11-12,Action,Sony Interactive Entertainment Europe,PS5,92.0,100.0,8.4,4605.0,,
+Rayman® Legends,,1970-01-01,,UBISOFT ENTERTAINMENT SA,PS3,92.0,35.0,8.7,784.0,,
+ROCK BAND,,2008-09-11,Music/rhythm,Harmonix Music Systems Inc.,PS3,92.0,35.0,8.1,127.0,,
+FINAL FANTASY® VII,9.99,2009-06-04,Role playing games / Adventure,Square Enix LTD,PS3 / PS Vita / PSP,92.0,20.0,8.9,2822.0,4.87,22613.0
+BATMAN: ARKHAM ASYLUM,,2009-08-27,,Square Enix LTD,PS3,92.0,78.0,8.5,2732.0,,
+Vagrant Story™,5.99,2009-12-22,Role playing games / Adventure,Square Enix LTD,PS3 / PS Vita / PSP,92.0,19.0,8.8,264.0,4.43,2710.0
+Final Fantasy® VI,9.99,2011-06-01,Role playing games,Square Enix LTD,PS3 / PS Vita / PSP,92.0,25.0,8.3,440.0,4.75,1875.0
+God of War® III,,2012-03-17,,Sony Interactive Entertainment Europe,PS3,92.0,101.0,9.0,4038.0,,
+Batman: Arkham Asylum,14.99,2012-12-12,Action / Adventure,WARNER BROS. INTERACTIVE,PS3,92.0,78.0,8.5,2732.0,4.68,4546.0
+Demon's Souls™,19.99,2013-01-23,Role playing games,BANDAI NAMCO ENTERTAINMENT EUROPE,PS3,92.0,100.0,8.4,4605.0,4.65,7717.0
+Rayman Legends,19.99,2013-08-29,Action,UBISOFT ENTERTAINMENT SA,PS3,92.0,35.0,8.7,966.0,4.68,1783.0
+Rayman Legends,29.99,2014-02-20,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS4,92.0,35.0,8.7,1054.0,4.57,9688.0
+Bloodborne™,49.99,2015-03-25,Action / Role playing games,Sony Interactive Entertainment Europe,PS4,92.0,100.0,8.9,13839.0,4.74,269681.0
+Journey™,14.99,2015-07-21,Shooter / Adventure,Sony Interactive Entertainment Europe,PS4 / PS3,92.0,78.0,8.6,2094.0,4.69,136284.0
+Bloodborne™: Game of the Year Edition,59.99,2015-11-25,Action / Role playing games,Sony Interactive Entertainment Europe,PS4,92.0,100.0,8.9,13839.0,4.76,19079.0
+Resident Evil 2,9.99,2025-08-19,Action / Horror,"Capcom U.S.A., Inc.",PS5 / PS4,91.0,85.0,8.9,6953.0,4.9,493.0
+I Was a Teenage Exocolonist,24.99,2022-08-25,Role playing games,LAST CHANCE MEDIA,PS5 / PS4,91.0,11.0,7.8,75.0,,
+RESIDENT EVIL 2,39.99,2022-06-14,Action / Adventure / Horror,CE EUROPE LIMITED,PS5 / PS4,91.0,85.0,8.9,6930.0,4.77,97516.0
+Crusader Kings III,49.99,2022-03-29,Strategy / Simulation,PARADOX INTERACTIVE AB,PS5,91.0,61.0,8.3,1088.0,4.01,6271.0
+DRAGON QUEST XI S : Les Combattants de la destinée - Édition ultime,39.99,2020-12-04,Role playing games,Square Enix LTD,PS4,91.0,50.0,8.8,1051.0,4.67,501.0
+Shadow of the Colossus™,39.99,2018-02-07,Action / Adventure,Sony Interactive Entertainment Europe,PS4,91.0,100.0,7.9,3261.0,4.38,55758.0
+Crash Bandicoot 3 Warped™,4.99,2008-10-23,Action / Adventure,Sony Interactive Entertainment Europe,PS3 / PS Vita / PSP,91.0,12.0,9.0,918.0,4.79,10441.0
+God of War®: Chains of Olympus [PSP],7.99,2009-10-01,Action / Adventure,Sony Interactive Entertainment Europe,PS Vita / PSP,91.0,79.0,8.4,1206.0,4.66,1526.0
+Call of Duty® Classic,14.99,2009-12-10,,Activision Blizzard Int'l BV,PS3,91.0,44.0,8.2,1564.0,4.03,743.0
+ROCK BAND 2,,2010-04-22,Music/rhythm,Harmonix Music Systems Inc.,PS3,91.0,24.0,8.0,101.0,,
+ROCK BAND 3,,2010-10-27,Music/rhythm,Harmonix Music Systems Inc.,PS3,91.0,34.0,8.1,103.0,,
+God of War®: Ghost of Sparta [PSP],7.99,2010-11-03,Action / Adventure,Sony Interactive Entertainment Europe,PS Vita / PSP,91.0,79.0,8.4,1228.0,4.66,2876.0
+PAC-MAN™ Championship Edition DX＋,9.99,2010-11-24,,BANDAI NAMCO ENTERTAINMENT EUROPE,PS3,91.0,25.0,7.8,96.0,4.8,368.0
+Legacy of Kain: Soul Reaver ™,5.99,2011-03-02,Action / Horror,Square Enix LTD,PS3 / PS Vita / PSP,91.0,17.0,8.9,293.0,4.51,1910.0
+God of War®: Chains of Olympus,14.99,2011-09-14,Action / Adventure,Sony Interactive Entertainment Europe,PS3,91.0,79.0,8.4,1310.0,4.77,751.0
+Crysis,12.99,2011-10-05,Shooter,EA Swiss Sarl,PS3,91.0,56.0,8.1,2763.0,4.65,7181.0
+Shadow of the Colossus™ Classics HD,17.99,2011-12-21,Action / Adventure,Sony Interactive Entertainment Europe,PS3,91.0,100.0,7.9,3261.0,4.73,1450.0
+Resident Evil 3: Nemesis,9.99,2012-02-29,Action / Shooter / Horror,CE EUROPE LIMITED,PS3 / PS Vita / PSP,91.0,19.0,8.7,450.0,4.7,4516.0
+RESIDENT EVIL 2,9.99,2012-02-29,,CE EUROPE LIMITED,PS3 / PSP,91.0,85.0,8.9,6953.0,4.67,4892.0
+Ratchet & Clank™ 3,9.99,2012-06-27,Action,Sony Interactive Entertainment Europe,PS3,91.0,65.0,8.9,699.0,4.78,665.0
+Twisted Metal: Black™,7.99,2012-09-05,,Sony Interactive Entertainment Europe,PS3,91.0,15.0,8.3,145.0,4.33,332.0
+Mass Effect™,14.99,2012-12-05,Shooter / Adventure,EA Swiss Sarl,PS3,91.0,74.0,8.6,1950.0,4.73,6773.0
+God of War® Collection,24.99,2014-05-07,,Sony Interactive Entertainment Europe,PS Vita,91.0,50.0,8.8,752.0,4.64,1772.0
+Resident Evil,19.99,2015-01-20,Action / Horror,CE EUROPE LIMITED,PS4,91.0,8.0,8.7,869.0,4.71,102099.0
+Resident Evil,19.99,2015-01-20,Action / Horror,CE EUROPE LIMITED,PS3,91.0,8.0,9.1,1091.0,4.81,2626.0
+Shovel Knight: Treasure Trove,24.99,2015-04-23,Action / Adventure,YACHT CLUB GAMES,PS4 / PS3 / PS Vita,91.0,17.0,8.2,669.0,4.79,14148.0
+Shujinkou,59.99,2025-02-13,,Rice Games Inc,PS5 / PS4,90.0,4.0,8.8,6.0,,
+TSUKIHIME -A piece of blue glass moon-,54.99,2024-06-27,Adventure,ANIPLEX INC.,PS4,90.0,9.0,8.4,109.0,4.9,341.0
+ANIMAL WELL,24.99,2024-05-09,,Bigmode,PS5,90.0,30.0,8.0,641.0,,
+DAVE THE DIVER,19.99,2024-04-16,Adventure,Mintrocket,PS5 / PS4,90.0,43.0,8.2,975.0,4.84,482.0
+Balatro,14.99,2024-02-20,Strategy,PLAYSTACK LIMITED,PS5 / PS4,90.0,32.0,8.3,1381.0,4.95,56.0
+The Last of Us™ Part II Remastered,49.99,2024-01-19,Action / Adventure,Sony Interactive Entertainment Europe,PS5,90.0,87.0,7.5,3383.0,4.38,143527.0
+TEKKEN 8,79.99,2024-01-26,Fighting / Action,BANDAI NAMCO ENTERTAINMENT EUROPE,PS5,90.0,96.0,7.5,1073.0,,
+Marvel’s Spider-Man 2,79.99,2023-10-20,Action,Sony Interactive Entertainment Europe,PS5,90.0,144.0,8.7,9904.0,,
+Walkabout Mini Golf,24.99,2023-05-11,,"Mighty Coconut, LLC",PS5,90.0,4.0,7.5,19.0,,
+Chained Echoes,24.99,2022-12-08,Role playing games,DECK13 INTERACTIVE,PS4,,,,,5.0,3.0
+Chicory: A Colorful Tale,19.99,2021-06-10,Adventure,LAST CHANCE MEDIA,PS5 / PS4,90.0,23.0,7.5,131.0,,
+Bayonetta,24.99,2020-02-18,Action / Shooter,SEGA EUROPE LTD,PS4,90.0,86.0,8.2,875.0,4.66,666.0
+Sekiro™: Shadows Die Twice - Édition GOTY,69.99,2019-04-05,Action / Adventure,Activision Blizzard Int'l BV,PS4,90.0,77.0,8.6,6479.0,4.66,57376.0
+ASTRO BOT Rescue Mission™,39.99,2018-10-03,Action,Sony Interactive Entertainment Europe,PS4,90.0,51.0,8.9,674.0,4.22,14227.0
+MONSTER HUNTER: WORLD™,69.99,2018-01-26,Action,CE EUROPE LIMITED,PS4,90.0,93.0,7.8,2534.0,4.71,123305.0
+OKAMI HD,19.99,2017-12-12,Action / Adventure,CE EUROPE LIMITED,PS4,90.0,44.0,8.8,479.0,4.87,1039.0
+Syphon Filter™,4.99,2007-09-20,Action / Shooter,Sony Interactive Entertainment Europe,PS3 / PS Vita / PSP,90.0,19.0,8.6,230.0,4.23,1840.0
+Final Fantasy® VIII,9.99,2009-12-24,Role playing games / Adventure,Square Enix LTD,PS3 / PS Vita / PSP,90.0,24.0,8.6,1244.0,4.84,14430.0
+Assassin's Creed® II,9.99,2011-02-09,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,90.0,82.0,8.8,2741.0,4.51,6467.0
+LIMBO,8.99,2011-07-20,Puzzle / Action / Horror / Unique,Playdead ApS,PS3,90.0,89.0,8.1,847.0,4.53,7717.0
+Dead Space™ 2,14.99,2011-08-17,Action / Shooter / Horror,EA Swiss Sarl,PS3,90.0,83.0,8.6,1293.0,4.7,2254.0
+NBA 2K12,,2011-11-30,,2K Sports Europe,PS3,90.0,42.0,7.8,150.0,,
+ICO™ Classics HD,14.99,2011-12-21,Action / Adventure,Sony Interactive Entertainment Europe,PS3,90.0,59.0,8.5,557.0,4.55,644.0
+Jak and Daxter: The Precursor Legacy™,9.99,2012-02-29,Action / Adventure,Sony Interactive Entertainment Europe,PS3,90.0,35.0,8.9,637.0,4.69,1139.0
+Ratchet & Clank™ 2,9.99,2012-06-27,Action,Sony Interactive Entertainment Europe,PS3,90.0,46.0,8.9,453.0,4.77,504.0
+Okami HD,13.99,2012-10-31,Adventure / Unique,CE EUROPE LIMITED,PS3,90.0,44.0,8.8,459.0,4.75,6939.0
+Bayonetta,14.99,2013-01-30,Action / Adventure / Horror,SEGA EUROPE LTD,PS3,90.0,86.0,8.2,807.0,4.72,823.0
+LIMBO,8.99,2013-06-05,Puzzle / Action / Adventure,Playdead ApS,PS Vita,90.0,89.0,8.1,837.0,4.43,4966.0
+Jetpack Joyride Deluxe,1.99,2014-12-03,Arcade,BIG ANT STUDIOS PTY LIMITED,PS Vita,90.0,27.0,7.8,147.0,4.47,969.0
+LIMBO,9.99,2015-02-25,Puzzle / Action / Adventure,Playdead ApS,PS4,90.0,89.0,8.0,1022.0,4.39,21226.0
+Metro 2033 Redux,19.99,2015-06-02,Action / Shooter,Deep Silver,PS4,90.0,5.0,8.1,2210.0,4.45,6586.0
+despelote,13.99,2025-05-01,Sports,Panic,PS5 / PS4,89.0,18.0,6.2,60.0,5.0,3.0
+Monument Valley,9.99,2025-04-15,Puzzle,ustwo games limited,PS5 / PS4,89.0,37.0,8.2,263.0,5.0,1.0
+DEATH STRANDING 2: ON THE BEACH,79.99,2025-06-26,,Sony Interactive Entertainment Europe,PS5,89.0,145.0,8.8,2891.0,,
+Thank Goodness You're Here!,17.99,2024-08-01,,Panic,PS5 / PS4,89.0,25.0,7.7,161.0,,
+TimeMelters,18.99,2024-07-11,,Autoexec Games Inc.,PS5,89.0,6.0,0.0,0.0,,
+Grandia,,2023-11-21,Role playing games,Game Arts Co.,PS5,89.0,14.0,7.7,165.0,,
+Grandia,12.49,2023-11-21,Role playing games,Game Arts Co.,PS4,89.0,14.0,7.7,165.0,4.78,264.0
+Horizon Forbidden West™ Complete Edition,69.99,2023-10-06,,Sony Interactive Entertainment Europe,PS5,89.0,36.0,7.3,768.0,,
+Like a Dragon: Infinite Wealth PS4 & PS5,69.99,2024-01-26,Role playing games,SEGA EUROPE LTD,PS5 / PS4,89.0,96.0,8.5,828.0,,
+Gravity Circuit,21.99,2023-07-13,Action,Plug In Digital,PS5 / PS4,89.0,5.0,7.9,28.0,,
+Dead Cells (PS4® & PS5®),24.99,2023-06-29,Action,MOTION TWIN SARL,PS5 / PS4,89.0,36.0,8.2,1150.0,4.73,13932.0
+Rez Infinite,29.99,2023-02-22,,ENHANCE GAMES,PS5,89.0,47.0,7.4,242.0,,
+Persona 3 Portable,19.99,2023-01-19,Role playing games,SEGA EUROPE LTD,PS4,89.0,40.0,8.7,762.0,4.93,14.0
+Neon White,24.99,2022-12-13,Action,ANNAPURNA INTERACTIVE,PS5 / PS4,89.0,39.0,8.3,358.0,,
+NORCO,14.99,2022-11-17,Puzzle / Adventure,RAW FURY,PS5 / PS4,89.0,25.0,7.4,88.0,,
+Atari 50: The Anniversary Celebration,39.99,2022-11-03,,ATARI EUROPE S.A.S.U.,PS5,89.0,18.0,8.1,33.0,,
+Dead Space,79.99,2023-01-27,Horror,EA Swiss Sarl,PS5,89.0,89.0,8.4,2265.0,,
+The Last of Us™ Part I,79.99,2022-09-02,Action,Sony Interactive Entertainment Europe,PS5,89.0,115.0,7.9,5112.0,,
+Rolling Gunner + Over Power,29.99,2022-04-01,Shooter,ININ,PS4,89.0,5.0,0.0,0.0,5.0,7.0
+Disco Elysium - The Final Cut,39.99,2021-03-30,Role playing games,Disco Elysium UK Ltd t/a ZA/UM,PS5 / PS4,89.0,30.0,8.3,1534.0,,
+Stardew Valley,13.99,2021-02-25,Role playing games / Adventure / Simulation,CONCERNEDAPE LLC,PS4,89.0,30.0,8.8,2855.0,4.76,698.0
+Devil May Cry 5 Special Edition,39.99,2020-11-12,Action,CE EUROPE LIMITED,PS5,89.0,34.0,8.5,890.0,4.78,39321.0
+Return of the Obra Dinn,23.99,2019-10-18,Puzzle / Adventure / Unique,3909 LLC,PS4,89.0,35.0,8.7,561.0,4.74,266.0
+STAR WARS™ Jedi Knight II: Jedi Outcast™,9.99,2019-09-24,Action / Shooter,ASPYR MEDIA,PS4,89.0,35.0,8.5,587.0,4.21,864.0
+Slay the Spire,24.99,2019-05-21,Strategy,Humble Games,PS4,89.0,24.0,8.0,1151.0,4.08,1402.0
+Dreams™,39.99,2020-02-14,Action / Adventure / Unique,Sony Interactive Entertainment Europe,PS4,89.0,80.0,8.6,1469.0,4.4,7513.0
+Tetris® Effect: Connected,39.99,2018-11-09,Puzzle,ENHANCE GAMES,PS4,89.0,76.0,7.6,257.0,4.57,7255.0
+Mark of the Ninja: Remastered,19.99,2018-10-09,Action,Klei Entertainment Inc.,PS4,89.0,6.0,8.3,70.0,4.81,439.0
+Hollow Knight : Edition Coeur-du-Vide,14.49,2018-09-25,Action / Adventure,TEAM CHERRY,PS4,,,,,4.61,14194.0
+GRANDIA,7.99,2010-11-10,Role playing games,Game Arts Co.,PS3 / PS Vita / PSP,,,,,4.61,1830.0
+L. A. Noire,39.99,2017-11-14,Action / Adventure,Rockstar Games,PS4,89.0,83.0,8.0,1326.0,4.66,2378.0
+Titanfall™ 2 édition standard,69.99,2016-10-28,Action / Shooter / Adventure,EA Swiss Sarl,PS4,,,,,4.57,125387.0
+Rez Infinite,29.99,2016-10-13,Action / Shooter / Music/rhythm / Unique,ENHANCE GAMES,PS4,,,,,4.49,6567.0
+DARK SOULS™ III,69.99,2016-04-12,Action / Role playing games / Adventure,BANDAI NAMCO ENTERTAINMENT EUROPE,PS4,89.0,69.0,8.8,6400.0,4.78,88348.0
+XCOM®: Enemy Unknown Plus,19.99,2016-03-22,Strategy,2K,PS Vita,89.0,57.0,8.2,2754.0,4.53,657.0
+Metal Gear Solid: Peace Walker,9.99,2010-06-17,Action / Shooter,Konami,PS Vita / PSP,89.0,66.0,8.5,713.0,4.85,1828.0
+Assassin's Creed Brotherhood,9.99,2011-08-03,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.64,2957.0
+Dead Space™,14.99,2011-08-17,,EA Swiss Sarl,PS3,,,,,4.77,476.0
+Persona 3 Portable,29.99,2011-09-07,Role playing games,GHOSTLIGHT LIMITED,PS Vita / PSP,,,,,4.89,1510.0
+Deus Ex: Human Revolution,12.99,2011-11-30,,Square Enix LTD,PS3,89.0,70.0,8.2,1020.0,4.51,1503.0
+L.A. Noire,29.99,2011-12-21,Adventure,Rockstar Games,PS3,89.0,83.0,7.9,1267.0,4.53,993.0
+Max Payne,9.99,2012-05-02,,Rockstar Games,PS3,89.0,32.0,9.0,2424.0,4.49,1984.0
+Borderlands 2,29.99,2012-09-20,Action / Shooter / Role playing games,2K,PS3,89.0,59.0,8.1,1700.0,4.68,11902.0
+Castlevania: Symphony of the Night,9.99,2012-12-12,Role playing games / Adventure / Horror,Konami,PS3 / PS Vita,89.0,21.0,8.8,318.0,4.89,1833.0
+FEZ,9.99,2014-03-26,Adventure,POLYTRON CORPORATION,PS4 / PS3 / PS Vita,,,,,4.1,18614.0
+The Walking Dead: The Complete First Season,24.99,2014-10-31,Action / Adventure,SKYBOUND INTERACTIVE LLC,PS4,,,,,4.75,14649.0
+Journey™ - Édition Collector,24.99,2015-09-30,Puzzle / Adventure / Unique,Sony Interactive Entertainment Europe,PS4 / PS3 / PS Vita,89.0,5.0,8.8,52.0,4.73,1958.0
+Nuclear Throne,11.99,2015-12-05,Action / Shooter / Arcade,VLAMBEER,PS4 / PS Vita,89.0,15.0,7.7,280.0,4.57,835.0
+Sword of the Sea,24.99,2025-08-19,,"Giant Squid, Inc.",PS5,88.0,20.0,8.7,139.0,,
+Cabernet,23.99,2025-02-20,,AKUPARA GAMES,PS5 / PS4,88.0,5.0,0.0,0.0,,
+Lorelei and the Laser Eyes,23.99,2024-12-03,Puzzle,ANNAPURNA INTERACTIVE,PS5 / PS4,88.0,37.0,7.8,96.0,5.0,5.0
+KILL KNIGHT,14.49,2024-10-02,Action,PlaySide Studios LTD,PS5 / PS4,88.0,8.0,7.7,72.0,5.0,20.0
+Kingdom Come: Deliverance II,69.99,2025-02-04,,Deep Silver,PS5,88.0,75.0,8.7,3591.0,,
+Let's! Revolution! PS4 & PS5,19.99,2024-04-11,Puzzle / Strategy,Buck Design LLC,PS5 / PS4,88.0,5.0,0.0,0.0,4.0,2.0
+DUSK,24.99,2023-10-31,Shooter,SEVERED PRESS PTY LTD,PS4,88.0,20.0,8.3,302.0,,
+The Talos Principle 2,29.99,2023-11-02,Puzzle / Adventure,Devolver Digital,PS5,88.0,46.0,8.5,211.0,,
+COCOON,24.99,2023-09-29,Adventure,ANNAPURNA INTERACTIVE,PS5 / PS4,88.0,39.0,8.0,634.0,5.0,7.0
+Rogue Legacy 2,24.99,2023-06-20,Action / Role playing games / Adventure,CELLAR DOOR GAMES INC.,PS5 / PS4,88.0,34.0,7.3,235.0,,
+Tetris® Effect: Connected,39.99,2023-02-22,,ENHANCE GAMES,PS5,,,,,,
+Night in the Woods,19.99,2022-12-13,Adventure,LAST CHANCE MEDIA,PS5 / PS4,,,,,,
+What Remains of Edith Finch,19.99,2022-07-28,Adventure / Horror,ANNAPURNA INTERACTIVE,PS5 / PS4,,,,,,
+A Short Hike,7.99,2021-11-16,Adventure,Whippoorwill Limited,PS4,88.0,17.0,8.5,380.0,4.67,69.0
+DEATHLOOP,69.99,2021-09-14,Action,Bethesda,PS5,88.0,109.0,6.8,1950.0,4.08,3808.0
+Horizon Forbidden West™,79.99,2022-02-18,Action,Sony Interactive Entertainment Europe,PS5 / PS4,88.0,127.0,8.0,11468.0,,
+Horizon Forbidden West™,69.99,2022-02-18,Action,Sony Interactive Entertainment Europe,PS4,88.0,127.0,8.0,11467.0,4.73,1540.0
+Ratchet & Clank: Rift Apart,79.99,2021-06-11,Action / Adventure,Sony Interactive Entertainment Europe,PS5,,,,,,
+Pillars of Eternity II: Deadfire - Ultimate Edition,59.99,2020-01-28,Action / Role playing games / Adventure,Microsoft Corporation,PS4,,,,,3.26,313.0
+Sid Meier's Civilization VI,49.99,2019-11-22,Strategy,2K,PS4,,,,,3.85,13526.0
+Torchlight II,19.99,2019-09-03,Action / Role playing games / Adventure,Arc Games,PS4,,,,,4.41,695.0
+Far Cry®3 Classic Edition,29.99,2018-05-29,Action / Shooter,UBISOFT ENTERTAINMENT SA,PS4,,,,,4.6,8671.0
+Owlboy,21.99,2018-04-10,Action / Adventure,D-PAD,PS4,88.0,47.0,7.6,313.0,4.31,242.0
+Injustice™ 2 - Legendary Edition,59.99,2018-03-29,Fighting,WARNER BROS. INTERACTIVE,PS4,,,,,4.42,1606.0
+SteamWorld Dig 2,19.99,2017-09-27,Action,THUNDERFUL PUBLISHING,PS4 / PS Vita,88.0,38.0,8.4,447.0,4.72,442.0
+Nioh,59.99,2017-02-08,Role playing games,Sony Interactive Entertainment Europe,PS4,88.0,100.0,8.1,2686.0,4.42,56099.0
+Dishonored 2,69.99,2016-11-11,Action,Bethesda,PS4,,,,,4.34,3590.0
+Battlefield™ 1,69.99,2016-10-21,Action / Shooter,EA Swiss Sarl,PS4,,,,,4.51,177875.0
+Rise of the Tomb Raider : 20e anniversaire,59.99,2016-10-11,Action / Role playing games,CRYSTAL DYNAMICS,PS4,,,,,4.49,90896.0
+XCOM® 2,49.99,2016-09-30,Strategy / Simulation,2K,PS4,,,,,4.16,26956.0
+Uncharted: Drake's Fortune™,,2012-06-27,,Sony Interactive Entertainment Europe,PS3,,,,,4.0,9.0
+Ratchet & Clank™,34.99,2016-04-15,Action / Adventure,Sony Interactive Entertainment Europe,PS4,,,,,4.46,47404.0
+BioShock 2,,2012-02-29,Action / Shooter,2K,PS3,,,,,4.46,2781.0
+Assassin's Creed 4 Black Flag,29.99,2013-11-29,Action,UBISOFT ENTERTAINMENT SA,PS4,,,,,4.81,66.0
+THE BEATLES: ROCK BAND,,1970-01-01,,Harmonix Music Systems Inc.,PS3,,,,,,
+CTR™: Crash Team Racing,4.99,2007-10-18,Action / Racing,Sony Interactive Entertainment Europe,PS3 / PS Vita / PSP,,,,,4.75,10788.0
+TOM CLANCY'S RAINBOW SIX VEGAS,19.99,2009-04-16,Shooter / Strategy,UBISOFT ENTERTAINMENT SA,PS Vita / PSP,,,,,3.52,29.0
+The Secret of Monkey Island™: Edition Speciale,9.99,2010-06-23,Adventure,LUCASARTS,PS3,,,,,4.71,3286.0
+Need for Speed Hot Pursuit,,2010-11-17,,EA Swiss Sarl,PS3,,,,,,
+Need for Speed™ Hot Pursuit,14.99,2011-06-22,Action / Racing,EA Swiss Sarl,PS3,,,,,4.41,11346.0
+OMG-Z!,2.99,2011-08-17,Puzzle / Action / Strategy,Laughing Jackal Ltd.,PS3 / PS Vita / PSP,88.0,5.0,7.3,29.0,3.8,627.0
+RIDGE RACER™,19.99,2012-01-31,,BANDAI NAMCO ENTERTAINMENT EUROPE,PS Vita,,,,,3.55,1365.0
+Uncharted: Drake’s Fortune™,12.99,2012-06-27,,Sony Interactive Entertainment Europe,PS3,,,,,4.56,1196.0
+Ratchet & Clank™,9.99,2012-06-27,Action,Sony Interactive Entertainment Europe,PS3,,,,,4.77,584.0
+Red Faction,9.99,2012-07-04,,THQ (UK) LTD,PS3,,,,,4.6,263.0
+Call of Duty: Modern Warfare 3,69.99,2012-09-12,Action / Shooter,Activision Blizzard Int'l BV,PS3,,,,,4.39,1414.0
+LittleBigPlanet™ PlayStation Vita,14.99,2012-09-26,Unique / Family,Sony Interactive Entertainment Europe,PS Vita,,,,,4.25,190550.0
+Far Cry® 3,14.99,2012-11-29,,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.65,15909.0
+Deus Ex: Human Revolution - Director's Cut™,14.99,2013-10-25,Action,Square Enix LTD,PS3,,,,,4.47,448.0
+XCOM®: Enemy Within,39.99,2013-11-13,Strategy,2K,PS3,,,,,4.87,838.0
+Ratchet & Clank™,9.99,2014-07-02,,Sony Interactive Entertainment Europe,PS Vita,,,,,4.54,908.0
+The Binding of Isaac: Rebirth,14.99,2014-11-05,Action,Nicalis Inc.,PS4,,,,,4.57,74040.0
+The Binding of Isaac: Rebirth,14.99,2014-11-05,Action,Nicalis Inc.,PS Vita,,,,,4.48,3912.0
+Dishonored,19.99,2014-12-17,Action / Adventure,Bethesda,PS3,,,,,4.26,10974.0
+The Talos Principle,39.99,2015-10-12,Puzzle / Adventure,Devolver Digital,PS4,,,,,4.73,1485.0
+DIVINITY ORIGINAL SIN - ENHANCED EDITION,54.99,2015-10-27,Role playing games,Focus Entertainment,PS4,,,,,4.59,8189.0
+Neva,19.99,2024-10-15,Action / Adventure,Devolver Digital,PS5 / PS4,,,,,4.99,83.0
+Jeanne d'Arc,9.99,2024-07-16,Role playing games,Sony Interactive Entertainment,PS5 / PS4,,,,,4.64,80.0
+Fallout 4,19.99,2024-04-25,Role playing games,Bethesda,PS5 / PS4,,,,,4.62,115850.0
+DRAGON BALL FighterZ PS4 & PS5,69.99,2024-02-29,Fighting,BANDAI NAMCO ENTERTAINMENT EUROPE,PS5 / PS4,,,,,4.34,61315.0
+Shin Megami Tensei V: Vengeance,59.99,2024-06-14,,SEGA EUROPE LTD,PS5 / PS4,,,,,,
+Hi-Fi RUSH,29.99,2024-03-19,,Bethesda,PS5,,,,,,
+IMMORTALITY,19.99,2024-01-23,,Half Mermaid Productions,PS5,,,,,,
+The Making of Karateka PS4 & PS5,18.99,2023-08-29,Action / Adventure,Atari Inc.,PS5 / PS4,,,,,,
+Sea of Stars,34.99,2023-08-29,Role playing games / Adventure,SABOTAGE STUDIO INC,PS5 / PS4,,,,,,
+Persona 3 Reload PS4 et PS5,69.99,2024-02-02,Role playing games,SEGA EUROPE LTD,PS5 / PS4,,,,,,
+Kentucky Route Zero: TV Edition,21.99,2023-08-17,Adventure / Unique,ANNAPURNA INTERACTIVE,PS5 / PS4,,,,,,
+Marvel's Spider-Man Remastered,59.99,2023-05-04,,Sony Interactive Entertainment Europe,PS5,,,,,,
+Grindstone,19.99,2023-05-03,Puzzle,Capybara Games Inc.,PS5 / PS4,,,,,,
+Return to Monkey Island,24.99,2022-11-08,,Devolver Digital,PS5,,,,,,
+THEATRHYTHM FINAL BAR LINE,59.99,2023-02-16,Music/rhythm,Square Enix LTD,PS4,87.0,42.0,8.8,76.0,,
+Little Noah: Scion of Paradise,14.99,2022-06-28,Action,"CYGAMES, INC.",PS4,87.0,4.0,8.5,13.0,4.88,17.0
+Shadowrun: Dragonfall - Director's Cut,19.99,2022-06-21,Strategy,PARADOX INTERACTIVE AB,PS5 / PS4,87.0,5.0,8.2,339.0,,
+UNCHARTED: Legacy of Thieves Collection,49.99,2022-01-28,Action / Adventure,Sony Interactive Entertainment Europe,PS5,,,,,,
+Psychonauts 2,59.99,2021-08-25,Action,Microsoft Corporation,PS4,,,,,4.79,213.0
+Subnautica,29.99,2021-05-14,Adventure,"Unknown Worlds Entertainment, Inc.",PS5 / PS4,87.0,39.0,8.6,2065.0,,
+Baldur's Gate: Dark Alliance,29.99,2021-05-07,Action / Role playing games,INTERPLAY ENTERTAINMENT,PS4,87.0,29.0,8.2,157.0,4.67,257.0
+Tales of Arise PS4 & PS5,69.99,2021-09-10,Role playing games,BANDAI NAMCO ENTERTAINMENT EUROPE,PS5 / PS4,87.0,76.0,8.2,1028.0,4.56,15889.0
+Guilty Gear -Strive- PS4 & PS5,59.99,2021-06-11,Fighting,BANDAI NAMCO ENTERTAINMENT EUROPE,PS5 / PS4,87.0,53.0,7.9,222.0,4.59,6772.0
+Mass Effect™ Édition Légendaire,69.99,2021-05-14,Unique,EA Swiss Sarl,PS4,,,,,4.83,3217.0
+Katamari Damacy REROLL,29.99,2020-11-20,Action,BANDAI NAMCO ENTERTAINMENT EUROPE,PS4,,,,,4.67,115.0
+Crypt of the NecroDancer,14.99,2016-02-03,Action / Adventure / Music/rhythm,TRANSCENDSENSE TECHNOLOGIES INC.,PS4,,,,,4.29,129.0
+Until You Fall,24.99,2020-09-29,Action / Adventure,SCHELL GAMES,PS4,,,,,4.09,685.0
+FINAL FANTASY VII REMAKE,69.99,2020-04-10,Role playing games,Square Enix LTD,PS4,,,,,4.71,132109.0
+DOOM 3,9.99,2019-07-26,Action / Shooter / Horror,Bethesda,PS4,,,,,4.47,1448.0
+Wolfenstein® II: The New Colossus™ (CUSA07377),100.0,2017-10-27,Action / Shooter,Bethesda,PS4,,,,,4.42,21355.0
+Raw Data,36.99,2017-10-18,Action / Shooter,"SURVIOS, INC",PS4,,,,,4.0,467.0
+Injustice™ 2 - Standard Edition,,2017-05-18,Fighting,WARNER BROS. INTERACTIVE,PS4,,,,,4.44,37590.0
+Zero Escape: The Nonary Games,59.99,2017-03-24,Adventure,"SPIKE CHUNSOFT, INC.",PS4,87.0,10.0,8.2,175.0,4.73,1444.0
+TowerFall Ascension,13.99,2016-07-06,Action,Maddy Makes Games Inc.,PS4 / PS Vita,,,,,4.15,31108.0
+Odin Sphere Leifthrasir,39.99,2016-06-24,Role playing games,NIS America,PS Vita,,,,,4.87,244.0
+Odin Sphere Leifthrasir,39.99,2016-06-24,Role playing games,NIS America,PS3,87.0,49.0,8.2,307.0,4.98,63.0
+Odin Sphere Leifthrasir,59.99,2016-06-24,Role playing games,NIS America,PS4,87.0,49.0,8.4,302.0,4.84,1193.0
+Heavy Rain™,9.99,2016-03-02,Action / Adventure,Sony Interactive Entertainment Europe,PS4,,,,,4.46,292.0
+Heavy Rain™,29.99,2016-03-02,Action / Adventure,Sony Interactive Entertainment Europe,PS4,,,,,4.43,11419.0
+The Witness,36.99,2016-01-26,Puzzle / Adventure / Unique,"THEKLA INC.,",PS4,,,,,4.27,10779.0
+PixelJunk™ Shooter,7.99,2009-12-10,Shooter,Sony Interactive Entertainment Europe,PS3,,,,,4.72,2742.0
+METAL GEAR SOLID PORTABLE OPS,7.99,2009-12-10,Action / Shooter,Konami,PS Vita / PSP,,,,,4.48,626.0
+METAL GEAR SOLID PORTABLE OPS +,7.99,2009-12-10,Action / Shooter,Konami,PS Vita / PSP,,,,,4.27,168.0
+Tactics Ogre™: Let Us Cling Together™,19.99,2011-02-25,Role playing games / Strategy,Square Enix LTD,PS Vita / PSP,,,,,4.88,433.0
+Rayman® Origins,14.99,2011-11-24,Action,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.49,4807.0
+Rayman® Origins,14.99,2012-01-31,Action,UBISOFT ENTERTAINMENT SA,PS Vita,,,,,4.58,8053.0
+Jak II™ : Hors La Loi,9.99,2012-02-29,Action,Sony Interactive Entertainment Europe,PS3,87.0,47.0,8.4,492.0,4.5,857.0
+Flower™,7.99,2013-11-29,Unique,Sony Interactive Entertainment Europe,PS4 / PS3 / PS Vita,,,,,4.67,14536.0
+Flower™,7.99,2013-11-29,,Sony Interactive Entertainment Europe,PS3 / PS Vita,87.0,57.0,8.5,327.0,4.46,2008.0
+Resistance 2™,14.99,2014-04-16,,Sony Interactive Entertainment Europe,PS3,87.0,79.0,6.2,2035.0,4.44,150.0
+PixelJunk™ Shooter Ultimate,11.99,2014-06-04,Shooter / Unique,Double Eleven Limited,PS4 / PS Vita,87.0,50.0,7.7,46.0,4.1,2232.0
+Guacamelee! Super Turbo Championship Edition,13.99,2014-07-02,Puzzle / Action / Adventure,DRINKBOX STUDIOS INC.,PS4,,,,,4.44,34856.0
+Spelunky,14.99,2014-10-08,Action,Mossmouth LLC,PS4 / PS3 / PS Vita,,,,,3.87,13338.0
+DARK SOULS™ II: Scholar of the First Sin,59.99,2015-04-02,Role playing games / Adventure,BANDAI NAMCO ENTERTAINMENT EUROPE,PS4,,,,,4.57,12720.0
+Batman: Arkham Knight,69.99,2015-06-23,Action / Adventure,WARNER BROS. INTERACTIVE,PS4,,,,,4.64,142922.0
+DELTARUNE PS4 & PS5,23.99,2025-06-04,Role playing games,"8-4, LTD",PS5 / PS4,,,,,4.82,6377.0
+Indiana Jones et le Cercle Ancien,79.99,2025-04-17,,Bethesda,PS5,86.0,77.0,8.2,2052.0,,
+Spin Rhythm XD,17.99,2024-07-09,Music/rhythm,Super Spin Division PTY LTD,PS5 / PS4,86.0,7.0,8.0,8.0,5.0,12.0
+Sly Raccoon™,9.99,2024-06-11,Adventure,Sony Interactive Entertainment,PS5 / PS4,86.0,41.0,8.5,405.0,4.97,351.0
+SILENT HILL 2,69.99,2024-10-08,,Konami,PS5,86.0,105.0,9.1,3632.0,,
+"Braid, Anniversary Edition",19.99,2024-05-14,,"THEKLA INC.,",PS5,86.0,15.0,7.6,46.0,,
+"Braid, Anniversary Edition",19.99,2024-05-14,Puzzle / Adventure,"THEKLA INC.,",PS4,,,,,5.0,4.0
+Bang-On Balls: Chronicles,24.99,2024-03-05,Action / Adventure / Casual,Untold Tales S.A.,PS5 / PS4,,,,,4.68,133.0
+Pentiment,19.99,2024-02-22,Adventure,Microsoft Corporation,PS5 / PS4,86.0,56.0,7.6,608.0,4.95,42.0
+Unicorn Overlord,59.99,2024-03-08,,SEGA EUROPE LTD,PS5 / PS4,,,,,,
+This Bed We Made,29.99,2023-12-20,Adventure,Lowbirth Games Inc.,PS4,,,,,,
+Dragon's Dogma 2,74.99,2024-03-22,Action / Role playing games,CE EUROPE LIMITED,PS5,,,,,,
+Astral Ascent PS4 & PS5,24.99,2023-11-14,Action,MP2 Games ApS,PS5 / PS4,86.0,13.0,7.7,40.0,5.0,8.0
+This Bed We Made,29.99,2023-11-01,,Lowbirth Games Inc.,PS5,86.0,5.0,7.3,28.0,,
+Everhood: Eternity Edition,12.99,2023-09-28,Adventure / Music/rhythm,BLITWORKS SL,PS5 / PS4,,,,,5.0,2.0
+ANONYMOUS;CODE,59.99,2023-09-08,Adventure,"SPIKE CHUNSOFT, INC.",PS4,,,,,,
+Chants of Sennaar,19.99,2023-09-05,Puzzle,Focus Entertainment,PS4,,,,,,
+STAR OCEAN THE SECOND STORY R - PS4 & PS5,49.99,2023-11-02,Role playing games,Square Enix LTD,PS5 / PS4,,,,,,
+Diablo® IV,,2023-06-05,Unique,"Blizzard Entertainment, Inc.",PS5,86.0,90.0,2.6,10362.0,,
+Beat Saber,29.99,2023-05-24,Music/rhythm / Party / Family,HYPERBOLIC MAGNETISM S.R.O.,PS5 / PS4,,,,,4.68,26720.0
+HUMANITY,29.99,2023-05-16,Puzzle / Action,ENHANCE GAMES,PS5 / PS4,,,,,,
+ARMORED CORE™ VI FIRES OF RUBICON™ PS4 & PS5,69.99,2023-08-25,Action / Adventure,BANDAI NAMCO ENTERTAINMENT EUROPE,PS5 / PS4,,,,,,
+Steve Jackson's Sorcery!,24.99,2022-06-23,Role playing games / Adventure,No Gravity Games S.A.,PS4,86.0,4.0,0.0,0.0,5.0,1.0
+RESIDENT EVIL 7 biohazard,19.99,2022-06-14,Action / Adventure,CE EUROPE LIMITED,PS5 / PS4,,,,,4.64,55054.0
+RESIDENT EVIL 7 biohazard Gold Edition,49.99,2022-06-13,Action / Adventure,CE EUROPE LIMITED,PS5 / PS4,,,,,,
+ESCHATOS,24.99,2022-04-07,Shooter,QUTE CORPORATION,PS4,86.0,5.0,8.3,6.0,5.0,6.0
+Cyberpunk 2077,49.99,2022-02-15,Role playing games / Unique,CD PROJEKT,PS5 / PS4,,,,,,
+Lacuna,19.99,2021-12-21,Adventure,ASSEMBLE ENTERTAINMENT GMBH,PS4,,,,,4.38,8.0
+Monster Boy et le Royaume Maudit,39.99,2021-12-02,Action / Adventure,FDG ENTERTAINMENT GMBH & CO KG,PS5 / PS4,,,,,,
+ENDER LILIES: Quietus of the Knights,29.99,2021-07-20,Action,Binary Haze Interactive,PS4,,,,,4.77,219.0
+The Great Ace Attorney Chronicles,39.99,2021-07-27,Adventure,CE EUROPE LIMITED,PS4,86.0,51.0,9.0,281.0,4.78,83.0
+Turok 2: Seeds Of Evil,19.99,2021-02-25,Action / Shooter,NIGHT DIVE STUDIOS,PS4,86.0,14.0,8.2,115.0,4.67,129.0
+Returnal,79.99,2021-04-30,Shooter,Sony Interactive Entertainment Europe,PS5,86.0,115.0,7.4,4396.0,,
+Cuphead,19.99,2020-07-28,Action,StudioMDHR Entertainment,PS4,,,,,4.5,47032.0
+Desperados III,59.99,2020-06-16,Action / Strategy,THQ NORDIC GMBH,PS4,,,,,4.32,3609.0
+Ni no Kuni: Wrath of the White Witch™ Remastered,49.99,2019-09-20,Action / Role playing games / Adventure,BANDAI NAMCO ENTERTAINMENT EUROPE,PS4,,,,,4.7,873.0
+Mini Metro,11.99,2019-09-10,Puzzle / Simulation,,PS4,,,,,3.8,30.0
+The Messenger,19.99,2019-03-19,Action,Devolver Digital,PS4,,,,,4.71,3828.0
+STEINS;GATE ELITE,59.99,2019-03-19,Adventure,"SPIKE CHUNSOFT, INC.",PS4,,,,,4.81,75.0
+Sonic Mania,19.99,2017-08-15,Action / Adventure / Family,SEGA EUROPE LTD,PS4,,,,,4.34,42480.0
+Patapon™ Remastered,14.99,2017-08-01,Action / Adventure / Music/rhythm,Sony Interactive Entertainment Europe,PS4,,,,,4.19,3597.0
+FINAL FANTASY XII THE ZODIAC AGE,49.99,2017-07-18,Role playing games,Square Enix LTD,PS4,,,,,4.75,10770.0
+GUILTY GEAR Xrd -REVELATOR-,54.99,2016-06-10,Fighting,PQube Ltd,PS4,86.0,30.0,8.3,146.0,4.79,4062.0
+SteamWorld Heist,19.99,2016-06-08,Action / Shooter / Strategy,THUNDERFUL PUBLISHING,PS4 / PS Vita,,,,,4.66,1970.0
+Joe Danger,,2010-08-25,Action / Racing,Hello Games LTD,PS3,86.0,48.0,7.2,49.0,4.42,8760.0
+MIGHT & MAGIC CLASH OF HEROES™,,2011-04-13,Puzzle / Role playing games / Adventure,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.31,2555.0
+Tales from Space: Mutant Blobs Attack,,2014-06-18,Puzzle / Action,DRINKBOX STUDIOS INC.,PS3,86.0,30.0,8.2,172.0,4.35,2052.0
+Gone Home,19.99,2016-02-12,Adventure,Serenity Forge,PS4,,,,,3.86,14526.0
+The Legend of Heroes: Trails of Cold Steel,39.99,2016-01-29,Role playing games,NIS America,PS3,,,,,4.88,235.0
+Valkyria Chronicles™,,1970-01-01,Role playing games,SEGA EUROPE LTD,PS3,,,,,,
+Shatter™,7.99,2009-07-23,Action,Sidhe,PS3,,,,,4.36,4923.0
+Guitar Hero® 5,,2009-09-10,,Activision Blizzard Int'l BV,PS3,,,,,,
+Joe Danger,12.99,2010-08-25,Racing,Hello Games LTD,PS3,,,,,4.49,1282.0
+Tomb Raider,5.99,2010-09-01,Action / Adventure,Square Enix LTD,PS3 / PS Vita / PSP,,,,,4.57,2461.0
+Dragon Age: Origins,14.99,2011-08-03,Role playing games / Adventure,EA Swiss Sarl,PS3,,,,,4.69,2305.0
+Street Fighter™ III: Third Strike Online Edition,14.99,2011-08-24,,CE EUROPE LIMITED,PS3,,,,,4.47,307.0
+God of War®: Ghost of Sparta,14.99,2011-09-14,Action / Adventure,Sony Interactive Entertainment Europe,PS3,,,,,4.84,1469.0
+Daytona USA,7.99,2011-11-23,Racing,SEGA EUROPE LTD,PS3,,,,,4.63,941.0
+Tales from Space: Mutant Blobs Attack,6.99,2012-02-22,,DRINKBOX STUDIOS INC.,PS Vita,,,,,4.68,5356.0
+Max Payne 3,19.99,2012-09-12,Action / Shooter / Adventure,Rockstar Games,PS3,,,,,4.64,1799.0
+Dragon Age: Origins,14.99,2012-10-03,Role playing games,EA Swiss Sarl,PS3,,,,,4.61,535.0
+DmC Devil May Cry,19.99,2013-01-15,Action / Adventure,CE EUROPE LIMITED,PS3,86.0,65.0,5.5,1624.0,4.6,5268.0
+Brothers: a Tale of two Sons,,2013-04-10,,505 GAMES S.R.L.,PS3,,,,,,
+Tomb Raider,14.99,2013-05-15,Action / Adventure,Square Enix LTD,PS3,86.0,70.0,8.3,1943.0,4.75,7989.0
+Saints Row IV,19.99,2013-08-23,Action,Deep Silver,PS3,86.0,45.0,7.4,2041.0,4.59,2836.0
+Brothers: a Tale of Two Sons - Obtenir le jeu complet,14.99,2013-09-04,,505 GAMES S.R.L.,PS3,,,,,4.53,4706.0
+Rocksmith® 2014 Edition,29.99,2013-10-24,Music/rhythm,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.71,117.0
+Tales from Space: Mutant Blobs Attack,6.99,2014-06-18,,DRINKBOX STUDIOS INC.,PS3,86.0,30.0,8.3,165.0,4.39,64.0
+Resistance: Fall of Man™,14.99,2014-04-16,,Sony Interactive Entertainment Europe,PS3,,,,,4.31,140.0
+Joe Danger,7.99,2014-09-03,Action,Hello Games LTD,PS Vita,86.0,48.0,7.2,50.0,3.9,4625.0
+Nihilumbra,8.99,2015-01-28,Puzzle / Adventure,,PS Vita,86.0,12.0,6.2,25.0,4.16,475.0
+Suikoden III,9.99,2015-06-23,Adventure,Konami,PS3,86.0,23.0,8.7,122.0,4.8,293.0
+Astebreed,14.49,2015-06-25,Action / Arcade,PLAYISM,PS4,86.0,14.0,7.4,131.0,4.45,573.0
+Brothers: a Tale of two Sons,19.99,2015-08-12,Puzzle / Action / Adventure / Unique,505 GAMES S.R.L.,PS4,86.0,56.0,8.3,539.0,4.44,3181.0
+Uncharted™: The Nathan Drake Collection,59.99,2015-10-07,Action / Adventure,Sony Interactive Entertainment Europe,PS4,,,,,4.57,24850.0
+The Alters,34.99,2025-06-13,Adventure,11 Bit Studios S.A.,PS5,,,,,,
+Risk of Rain 2,24.99,2024-08-27,Action,GEARBOX,PS5 / PS4,,,,,4.56,6234.0
+STAR WARS Jedi: Survivor™ PS4,49.99,2024-09-17,Action,EA Swiss Sarl,PS4,,,,,4.49,16771.0
+Closer the Distance,19.99,2024-08-02,,SKYBOUND INTERACTIVE LLC,PS5,85.0,9.0,8.3,11.0,,
+"Ratchet & Clank: La taille, ça compte",9.99,2024-07-16,Adventure,Sony Interactive Entertainment,PS5 / PS4,,,,,4.72,122.0
+Ace Attorney Investigations Collection,39.99,2024-09-06,Adventure,CE EUROPE LIMITED,PS4,85.0,25.0,8.3,21.0,5.0,1.0
+Stasis: Bone Totem,19.99,2024-03-28,,Feardemic,PS5,,,,,,
+Torn Away,14.99,2024-02-03,Adventure,Dmitrii Milovidov trading as OverGamez,PS4,,,,,,
+Apollo Justice: Ace Attorney Trilogy,49.99,2024-01-25,Adventure,CE EUROPE LIMITED,PS4,,,,,5.0,27.0
+In Stars and Time,19.99,2023-11-20,,ARMOR GAMES INC,PS5,85.0,8.0,8.3,43.0,,
+In Stars and Time,19.99,2023-11-20,Role playing games,ARMOR GAMES INC,PS4,,,,,5.0,2.0
+Worldless,19.99,2023-11-21,Action,THUNDERFUL PUBLISHING,PS5 / PS4,85.0,6.0,7.2,22.0,,
+Hotline Miami,9.99,2023-10-23,Action,Devolver Digital,PS5 / PS4,,,,,5.0,12.0
+Jusant,24.99,2023-10-31,Adventure,DON'T NOD ENTERTAINMENT SARL,PS5,,,,,,
+Shadow Gambit: The Cursed Crew,39.99,2023-08-17,Strategy,Hooded Horse Inc.,PS5,,,,,,
+Russian Subway Dogs,14.99,2023-06-28,Arcade / Unique,SPOOKY SQUID GAMES INC.,PS4 / PS Vita,,,,,5.0,1.0
+STAR WARS Jedi: Survivor™,79.99,2023-04-28,Action,EA Swiss Sarl,PS5,,,,,4.26,48073.0
+FINAL FANTASY IV,17.99,2023-04-19,Role playing games,Square Enix LTD,PS4,85.0,30.0,8.2,88.0,5.0,1.0
+A Space for the Unbound,19.99,2023-01-19,Adventure,CHORUS WORLDWIDE GAMES,PS4,85.0,24.0,7.5,50.0,5.0,1.0
+A Space for the Unbound,19.99,2023-01-19,,CHORUS WORLDWIDE GAMES,PS5,85.0,24.0,7.6,91.0,,
+The Witcher 3: Wild Hunt – Complete Edition,49.99,2022-12-14,Action / Role playing games,CD PROJEKT,PS5 / PS4,85.0,65.0,8.9,2767.0,,
+Moss,26.99,2023-02-22,Puzzle / Action / Adventure,"POLYARC, INC.",PS5,85.0,66.0,8.5,232.0,,
+Ys VIII: Lacrimosa of DANA,39.99,2022-11-18,,NIS America,PS5,85.0,39.0,8.6,370.0,,
+Teenage Mutant Ninja Turtles: Shredder's Revenge,24.99,2022-11-15,,DOTEMU,PS5,85.0,47.0,8.0,238.0,,
+TUNIC,29.99,2022-09-27,Action,LAST CHANCE MEDIA,PS5 / PS4,85.0,60.0,7.9,823.0,,
+Undernauts: Labyrinth of Yomi,44.99,2022-09-17,,NUMSKULL GAMES LTD,PS5,,,,,,
+Outer Wilds,24.99,2022-09-15,Adventure / Unique,ANNAPURNA INTERACTIVE,PS5 / PS4,,,,,4.74,10641.0
+OCTOPATH TRAVELER II PS4＆PS5,59.99,2023-02-24,Role playing games,Square Enix LTD,PS5 / PS4,,,,,,
+Inscryption,19.99,2022-08-30,Adventure / Strategy,Devolver Digital,PS5 / PS4,,,,,,
+AI: THE SOMNIUM FILES - nirvanA Initiative,59.99,2022-07-08,Adventure,"SPIKE CHUNSOFT, INC.",PS4,,,,,4.61,626.0
+Red Faction: Guerrilla,,2013-11-06,,THQ (UK) LTD,PS3,,,,,,
+Teenage Mutant Ninja Turtles: Shredder's Revenge,24.99,2022-06-16,Action,DOTEMU,PS4,,,,,4.86,348.0
+What Lies in the Multiverse,14.99,2022-03-04,,Untold Tales S.A.,PS5,,,,,,
+What Lies in the Multiverse,14.99,2022-03-04,Puzzle / Adventure,Untold Tales S.A.,PS4,,,,,5.0,1.0
+Undernauts: Labyrinth of Yomi,44.99,2022-02-24,Role playing games,NUMSKULL GAMES LTD,PS4,,,,,4.67,3.0
+Deep Rock Galactic PS4 & PS5,29.99,2022-01-04,Action / Shooter,COFFEE STAIN PUBLISHING AB,PS5 / PS4,,,,,4.41,12977.0
+Among Us,3.99,2021-12-14,Party,Innersloth LLC,PS5 / PS4,,,,,3.51,38214.0
+The Jackbox Party Pack 7,29.99,2021-11-25,Unique,"JACKBOX GAMES, INC.",PS5 / PS4,,,,,,
+Death's Door,19.99,2021-11-23,Action / Adventure,Devolver Digital,PS5 / PS4,,,,,,
+Tangle Tower,16.99,2021-10-06,Adventure,SFB Games Limited,PS4,,,,,4.0,9.0
+Rogue Legacy,16.99,2014-07-30,Fighting / Action,CELLAR DOOR GAMES INC.,PS4 / PS3 / PS Vita,,,,,4.36,39.0
+The Forgotten City,29.99,2021-07-28,Adventure,Dear Villagers,PS5 / PS4,,,,,,
+Russian Subway Dogs,14.99,2021-07-20,Action / Arcade / Unique,SPOOKY SQUID GAMES INC.,PS Vita,,,,,,
+DEATH STRANDING DIRECTOR’S CUT,49.99,2021-09-24,Action,Sony Interactive Entertainment Europe,PS5,,,,,,
+Doki Doki Literature Club Plus!,12.49,2021-06-30,Adventure / Horror,Serenity Forge,PS5 / PS4,,,,,,
+Manifold Garden,17.99,2021-05-20,Puzzle / Adventure,WILLIAM CHYR STUDIO LLC,PS5 / PS4,,,,,,
+Crash Bandicoot™ 4: It’s About Time,69.99,2021-03-12,Action,Activision Blizzard Int'l BV,PS5 / PS4,,,,,,
+Wilmot's Warehouse,13.99,2021-02-09,Puzzle / Family,LAST CHANCE MEDIA,PS4,,,,,4.56,9.0
+Marvel's Spider-Man: Miles Morales PS4 & PS5,,1970-01-01,Action,Sony Interactive Entertainment Europe,PS4,,,,,4.63,6309.0
+Marvel's Spider-Man: Miles Morales PS4 & PS5,,1970-01-01,Action,Sony Interactive Entertainment Europe,PS4,,,,,4.63,1241.0
+Wasteland 3,59.99,2020-08-27,Role playing games,InXile Entertainment,PS4,,,,,4.32,2502.0
+13 Sentinels: Aegis Rim,59.99,2020-09-22,Adventure / Simulation / Unique,SEGA EUROPE LTD,PS4,,,,,4.88,544.0
+Bug Fables: The Everlasting Sapling,29.99,2020-05-28,Role playing games / Adventure / Family,DANGEN ENTERTAINMENT,PS4,,,,,4.91,45.0
+Nioh 2,69.99,2020-03-13,Action,Sony Interactive Entertainment Europe,PS4,,,,,4.55,31797.0
+Disgaea 4 Complete+,49.99,2019-10-29,Role playing games,NIS America,PS4,,,,,4.67,295.0
+Kingdom Two Crowns,18.99,2018-12-11,Action / Adventure / Arcade,RAW FURY,PS4,85.0,11.0,7.6,70.0,4.6,2468.0
+Thronebreaker: The Witcher Tales,26.99,2018-12-04,Role playing games,CD PROJEKT,PS4,85.0,51.0,8.3,750.0,4.36,3733.0
+Valkyria Chronicles 4,59.99,2018-09-25,Role playing games,SEGA EUROPE LTD,PS4,85.0,46.0,8.0,238.0,4.7,3882.0
+428: Shibuya Scramble,49.99,2018-09-21,Adventure,"SPIKE CHUNSOFT, INC.",PS4,85.0,19.0,7.7,43.0,4.15,133.0
+Yakuza Kiwami 2,49.99,2018-09-18,Action / Role playing games,SEGA EUROPE LTD,PS4,85.0,69.0,8.5,634.0,4.68,8541.0
+IKARUGA,9.99,2018-06-29,Shooter,,PS4,,,,,4.72,159.0
+DJMAX RESPECT,39.99,2018-03-07,Action / Music/rhythm,NEOWIZ,PS4,,,,,4.82,5160.0
+Moss™,29.99,2018-02-27,Puzzle / Action / Adventure,"POLYARC, INC.",PS4,,,,,4.54,10186.0
+South Park™ : Le Bâton de la Vérité™,29.99,2018-02-13,Role playing games,UBISOFT ENTERTAINMENT SA,PS4,,,,,4.66,1586.0
+"Papers, Please",8.99,2017-12-12,Role playing games / Simulation / Unique,3909 LLC,PS Vita,,,,,3.93,225.0
+ACA NEOGEO METAL SLUG X,6.99,2017-10-10,Action / Arcade,HAMSTER CORPORATION,PS4,85.0,9.0,8.6,123.0,4.53,405.0
+Ys VIII: Lacrimosa of DANA,39.99,2017-09-15,Role playing games,NIS America,PS Vita,85.0,39.0,8.6,369.0,5.0,12.0
+Ys VIII: Lacrimosa of DANA,59.99,2017-09-15,Role playing games,NIS America,PS4,85.0,39.0,8.6,369.0,4.79,9920.0
+Pillars of Eternity: Complete Edition,49.99,2017-08-29,Role playing games / Adventure,Microsoft Corporation,PS4,85.0,25.0,7.1,148.0,4.53,1407.0
+Shadow Tactics: Blades of the Shogun,49.99,2017-07-31,Action / Strategy,DAEDALIC ENTERTAINMENT,PS4,85.0,40.0,8.4,481.0,4.56,4135.0
+Pyre,19.99,2017-07-25,Action / Role playing games,SUPERGIANT GAMES,PS4,85.0,48.0,7.9,214.0,4.68,2468.0
+WipEout™ Omega Collection,34.99,2017-06-07,Racing,Sony Interactive Entertainment Europe,PS4,85.0,53.0,8.3,332.0,4.35,7983.0
+Oceanhorn - Monster of Uncharted Seas,14.99,2017-05-17,Action / Role playing games / Adventure,FDG ENTERTAINMENT GMBH & CO KG,PS Vita,85.0,19.0,7.7,79.0,3.67,9.0
+Yakuza Zero,59.99,2017-01-24,Fighting / Action / Adventure,SEGA EUROPE LTD,PS4,85.0,87.0,8.8,1921.0,4.81,22017.0
+Machinarium,19.99,2016-10-18,Puzzle / Adventure,AMANITA DESIGN S.R.O.,PS4,85.0,47.0,8.5,691.0,4.62,1911.0
+DEAD RISING,19.99,2016-09-13,Action / Horror,CE EUROPE LIMITED,PS4,85.0,82.0,7.5,367.0,4.38,836.0
+Stardust Galaxy Warriors: Stellar Climax,9.99,2016-09-09,Action / Shooter / Arcade,DREAMLOOP GAMES OY,PS4,85.0,5.0,7.9,16.0,4.54,96.0
+Oceanhorn - Monster of Uncharted Seas,14.99,2016-09-07,Action / Role playing games / Adventure,FDG ENTERTAINMENT GMBH & CO KG,PS4,,,,,4.34,1264.0
+Lara Croft and the Guardian of Light,,2010-09-29,Action / Adventure,Square Enix LTD,PS3,,,,,4.27,10549.0
+The Wolf Among Us - Episode 1: Faith,,2013-10-16,Adventure,Telltale,PS3,,,,,4.35,3717.0
+THE WARRIORS,7.99,2016-04-19,Action / Adventure,Rockstar Games,PS3 / PS Vita / PSP,,,,,4.5,721.0
+Assault Android Cactus,14.49,2016-03-08,Action / Shooter / Arcade,WITCH BEAM GAMES PTY LTD,PS4,85.0,20.0,6.3,44.0,4.55,395.0
+Mortal Kombat XL,59.99,2016-03-01,Fighting / Action,WARNER BROS. INTERACTIVE,PS4,,,,,4.54,122324.0
+The Warriors,9.99,2013-03-20,Action / Adventure,Rockstar Games,PS3,,,,,4.78,979.0
+Super Stardust HD™,7.99,2007-12-27,Action / Shooter,Sony Interactive Entertainment Europe,PS3,,,,,4.54,3295.0
+Tom Clancy's RAINBOW SIX®,4.99,2008-04-17,Action / Shooter / Adventure / Strategy,UBISOFT ENTERTAINMENT SA,PS3 / PS Vita / PSP,,,,,3.25,401.0
+BIONIC COMMANDO REARMED,9.99,2008-08-28,Action,CE EUROPE LIMITED,PS3,,,,,4.14,649.0
+Sid Meier's Civilization Revolution,,2008-09-25,Strategy,2K,PS3,,,,,,
+SOULCALIBUR IV,,2008-10-23,Fighting,BANDAI NAMCO ENTERTAINMENT EUROPE,PS3,,,,,,
+Syphon Filter™: Logan's Shadow,7.99,2009-06-11,Action / Shooter,Sony Interactive Entertainment Europe,PS Vita / PSP,,,,,4.7,115.0
+Super Street Fighter IV,,2010-04-29,,CE EUROPE LIMITED,PS3,,,,,,
+inFAMOUS™,12.99,2010-08-05,Action / Shooter / Role playing games,Sony Interactive Entertainment Europe,PS3,,,,,4.53,16952.0
+Lara Croft and the Guardian of Light (VERSION COMPLÈTE),9.99,2010-09-29,,Square Enix LTD,PS3,,,,,4.5,7435.0
+Far Cry®2,9.99,2011-08-17,Shooter,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.14,3461.0
+Tom Clancy's Splinter Cell Double Agent,9.99,2012-01-18,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,,,,,3.95,487.0
+Pinball Arcade,9.99,2012-07-11,,Farsight Technologies,PS3,,,,,4.52,1523.0
+Assassin's Creed® III - Gold Edition,34.99,2012-10-31,Action / Adventure,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.54,735.0
+Red Faction: Guerrilla,19.99,2013-11-06,Action,THQ (UK) LTD,PS3,,,,,4.36,666.0
+Tomb Raider: Definitive Edition,39.99,2014-01-31,Action / Adventure,CRYSTAL DYNAMICS,PS4,,,,,4.68,34899.0
+South Park™: Le Bâton de la Vérité™,29.99,2014-03-19,Role playing games,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.73,836.0
+Hotline Miami,9.99,2014-08-20,Action,Devolver Digital,PS4 / PS3 / PS Vita,,,,,4.7,14725.0
+Far Cry 4,39.99,2014-11-18,Action / Shooter / Adventure,UBISOFT ENTERTAINMENT SA,PS4,,,,,4.28,174516.0
+Far Cry 4,59.99,2014-11-18,,UBISOFT ENTERTAINMENT SA,PS3,,,,,4.52,3038.0
+Dragon Age™: Inquisition,39.99,2014-11-20,Action / Role playing games,EA Swiss Sarl,PS4,,,,,4.58,79055.0
+Super Mega Baseball,19.99,2015-04-01,Sports,ELECTRONIC ARTS,PS4 / PS3,,,,,4.05,5220.0
+Borderlands 4,79.99,2025-09-12,,2K,PS5,,,,,,
+Sayonara Wild Hearts,9.99,2025-02-24,Action / Adventure / Music/rhythm,ANNAPURNA INTERACTIVE,PS5 / PS4,,,,,4.56,1630.0
+ENDER MAGNOLIA: Bloom in the Mist,24.99,2025-01-22,,Binary Haze Interactive,PS5,,,,,,
+Nine Sols PS4 & PS5,28.99,2024-11-26,Action / Adventure,"RED CANDLE GAMES CO., LTD.",PS5 / PS4,,,,,5.0,36.0
+Ravenswatch,29.99,2024-11-28,,NACON SA,PS5 / PS4,,,,,,
+The Case of the Golden Idol,17.99,2024-07-29,,PLAYSTACK LIMITED,PS5,,,,,,
+Lost in Play,19.99,2024-08-10,Puzzle,"Joystick Ventures Publishing, LLC",PS5,,,,,,
+Ultimate General: Gettysburg,14.99,2024-07-19,,Samustai LTD,PS5,,,,,,
+DRAGON QUEST III HD-2D Remake,69.99,2024-11-14,,Square Enix LTD,PS5,,,,,,
+Crow Country,18.99,2024-05-09,,SFB Games Limited,PS5 / PS4,,,,,,
+Gordian Quest,19.99,2024-04-30,Role playing games,Maximum Entertainment,PS5 / PS4,,,,,5.0,19.0
+Mediterranea Inferno PS4 & PS5,14.99,2024-03-05,Adventure,Santa Ragione S.r.l.,PS5 / PS4,,,,,5.0,2.0
+Lil Gator Game PS4 & PS5,19.99,2023-10-10,Adventure,PLAYTONIC LTD,PS5 / PS4,84.0,16.0,8.4,39.0,5.0,2.0
+Disgaea 7: Vows of the Virtueless,59.99,2023-10-06,Role playing games,NIS America,PS5 / PS4,84.0,14.0,6.4,36.0,4.53,657.0
+Red Matter,19.99,2023-10-05,Puzzle / Adventure / Unique,VERTICAL ROBOT S.L.,PS5 / PS4,84.0,5.0,7.2,33.0,4.64,338.0
+WHAT THE GOLF?,16.99,2024-03-14,Sports,TRIBAND PRODUCTION,PS5 / PS4,84.0,27.0,8.1,65.0,,
+Football Manager 2024 Console,59.99,2023-11-06,Sports,SEGA EUROPE LTD,PS5,,,,,,
+Patrick's Parabox,19.99,2023-07-26,,Draknek Limited,PS5,,,,,,
+Blasphemous 2,29.99,2023-08-24,Action,Team 17 Digital LTD,PS5 / PS4,,,,,,
+Thumper PS4 & PS5,19.99,2023-02-22,Action / Adventure / Music/rhythm,DROOL LLC,PS5 / PS4,,,,,,
+Prodeus,24.99,2022-09-23,Action / Shooter,Humble Games,PS5 / PS4,,,,,,
+"Hogwarts Legacy : L'Héritage de Poudlard, version PS5",74.99,2023-02-10,Unique,WARNER BROS. INTERACTIVE,PS5,,,,,,
+"Hogwarts Legacy : L'Héritage de Poudlard, version PS4",69.99,2023-05-05,Unique,WARNER BROS. INTERACTIVE,PS4,,,,,,
+Tactics Ogre: Reborn,49.99,2022-11-11,Role playing games,Square Enix LTD,PS5 / PS4,,,,,,
+Persona 4 Arena Ultimax,29.99,2022-03-17,Action,SEGA EUROPE LTD,PS4,,,,,4.9,72.0
+Infernax,19.99,2022-02-14,Action / Adventure,THE ARCADE CREW,PS4,84.0,14.0,7.7,46.0,4.91,32.0
+OlliOlli World (PS4/PS5),29.99,2022-02-08,Action / Arcade / Sports,TAKE-TWO INTERACTIVE SOFTWARE UK,PS5 / PS4,,,,,4.1,2369.0
+Shovel Knight Pocket Dungeon,19.99,2021-12-13,Puzzle / Adventure,YACHT CLUB GAMES,PS4,,,,,4.17,12.0
+The Elder Scrolls V: Skyrim Special Edition - PS5 & PS4,39.99,2021-11-11,Action / Role playing games,Bethesda,PS5 / PS4,,,,,,
+UNSIGHTED,19.99,2021-09-30,Action / Shooter,Humble Games,PS4,,,,,4.75,24.0
+Fuga: Melodies of Steel,39.99,2021-08-10,,CyberConnect2,PS5 / PS4,,,,,,
