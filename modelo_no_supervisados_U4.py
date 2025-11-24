@@ -95,3 +95,14 @@ df_num["cluster"] = kmeans_final.fit_predict(X_scaled)
 # Resumen por clúster
 cluster_summary = df_num.groupby("cluster").agg(["mean", "min", "max"])
 print(cluster_summary)
+
+labels = df_num["cluster"].values
+
+plt.figure(figsize=(8, 6))
+plt.scatter(X_pca[:, 0], X_pca[:, 1], c=labels)
+plt.xlabel("Componente principal 1")
+plt.ylabel("Componente principal 2")
+plt.title("Clústeres de videojuegos proyectados con PCA")
+plt.colorbar(label="Cluster")
+plt.tight_layout()
+plt.show()
